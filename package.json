@@ -1,14 +1,14 @@
 {
   "name": "@patrtorg/minus-harum-explicabo",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {},
   "author": "PatrDen",
   "license": "MIT",
   "dependencies": {
-    "@dramaorg/esse-praesentium-eligendi": "^2.2.7",
-    "@juigorg/sit-nam-neque": "^1.0.9",
+    "@dramaorg/esse-praesentium-eligendi": "^2.2.8",
+    "@juigorg/sit-nam-neque": "^1.0.10",
     "@kollorg/dicta-itaque-nemo": "^1.1.9",
     "@patrtorg/a-ad-expedita": "^1.0.2",
     "@patrtorg/a-ut-amet": "^1.0.2",
